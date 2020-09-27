@@ -1,0 +1,24 @@
+{
+  "name": "crud-using-nodejs-and-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sasi-007/CRUD-using-Nodejs-and-MongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sasi-007/CRUD-using-Nodejs-and-MongoDB/issues"
+  },
+  "homepage": "https://github.com/Sasi-007/CRUD-using-Nodejs-and-MongoDB#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7"
+  }
+}

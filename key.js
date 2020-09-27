@@ -1,0 +1,1 @@
+module.exports={MONGOURI:"mongodb://admin:ibMjhCWm2b143IpT@cluster0-shard-00-00.p3s5o.mongodb.net:27017,cluster0-shard-00-01.p3s5o.mongodb.net:27017,cluster0-shard-00-02.p3s5o.mongodb.net:27017/mynewdb?ssl=true&replicaSet=atlas-k74vue-shard-0&authSource=admin&retryWrites=true&w=majority"}
